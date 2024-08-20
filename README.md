@@ -1,10 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    Conversational RAG with PDF and Chat History
-</head>
-<body>
+
 
 <h1>Conversational RAG with PDF and Chat History</h1>
 
